@@ -1,0 +1,18 @@
+1. Inicio
+2. Declarar cal1(float)
+3. Declarar cal2(float)
+4. Declarar cal3(float)
+           promedio(float)
+           nombre(str)
+3.Mostrar("ingresa el nombre del alumno")
+4. Asignar nombre
+5. Mostrar("ingresa la calificacion 1 de"nombre")
+6. Asignar ("calificacion 1")
+7. Mostrar ("ingresar la calificacion 2 de "nombre")
+8. Asignar ("calificacion 2")
+9. Mostrar ("ingresar la calificacion 3 de "nombre")
+10. Asignar ("calificacion 3")
+11. Mostrar ("ingresar la calificacion 4 de "nombre")
+12. Asignar ("calificacion 4)
+13. Promedio=(cal1+cal2+cal3+cal4)/4
+14. Ingresar=("calificacion1+ calificacion2+calificacion3+calificacion4") 
